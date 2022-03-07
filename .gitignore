@@ -8,6 +8,12 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+# Output figures and files
+*.csv
+*.nc
+*.png
+*.jpg
+
 # IPython
 profile_default/
 ipython_config.py
