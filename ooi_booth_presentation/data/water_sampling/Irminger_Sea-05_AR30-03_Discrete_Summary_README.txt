@@ -20,14 +20,10 @@ Version: 1-00 <br>
 ---
 ### File Processing<br>
   ##### Methodology
-There should be one row for each station-cast-niskin bottle. Multiple samples for the same
-parameter from a single niskin bottle are split into separate rows, with the associated
-CTD data copied to the new row. The first row of the file is the column headers. <br>
+There should be one row for each station-cast-niskin bottle. Multiple samples for the same parameter from a single niskin bottle are split into separate rows, with the associated CTD data copied to the new row. The first row of the file is the column headers. <br>
 
   ##### Notes<br>
-  Cruise was done in conjunction with the OSNAP project. OSNAP specific cast are marked as
-  such in the summary sheet and do not have discrete sample values reported for them. The
-  CTD transmissometer values are of questionable valuable and should not be trusted. <br>
+Cruise was done in conjunction with the OSNAP project. OSNAP specific cast are marked as such in the summary sheet and do not have discrete sample values reported for them. The CTD transmissometer values are of questionable valuable and should not be trusted. <br>
 
   | Station-Cast #  | Bottle Position | Comment |
   | --------------- | --------------- | ------- |
