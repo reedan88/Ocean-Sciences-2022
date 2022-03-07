@@ -13,6 +13,7 @@
 *.nc
 *.png
 *.jpg
+*.pdf
 
 # IPython
 profile_default/
